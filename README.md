@@ -49,10 +49,9 @@ I am passionate about combining **trading strategy research, mathematics, and pr
 
 ---
 
-## Contact Me
+## Contact
 
-- **LinkedIn:** [Théo Verdelhan](https://www.linkedin.com/in/theoverdelhan/)  
-- **GitHub:** [github.com/theov07](https://github.com/theov07)  
+- **LinkedIn:** [Théo Verdelhan](https://www.linkedin.com/in/theoverdelhan/)
 - **Email:** theo.verdelhan@dauphine.eu
 
 ---

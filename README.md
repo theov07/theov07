@@ -1,68 +1,59 @@
-# 👋 Hi, I’m Théo Verdelhan
+# Hi, I’m Théo Verdelhan
 
-Quantitative Researcher | Aspiring Quant Researcher | Data Scientist
+**Quantitative Researcher | Aspiring Quant Researcher | Data Scientist | ML Engineer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TheoVerdelhan-blue?logo=linkedin)](https://www.linkedin.com/in/theoverdelhan/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-TheoVerdelhan-blue?logo=linkedin)](https://www.linkedin.com/in/theoverdelhan/)
 
 ---
 
 ## About Me
 
-I am a highly motivated quantitative researcher in training, passionate about leveraging data, statistical models, and financial theory to build systematic strategies and generate alpha. With a strong foundation in data science and quantitative finance, I aim to contribute to cutting-edge research teams and trading desks.
+I am a highly motivated quantitative researcher in training, passionate about leveraging data, statistical models, and financial theory to build systematic strategies and generate alpha.  
+I enjoy bridging **mathematics, programming, and finance** to solve real financial problems and implement quantitative models.
 
-- 💼 Currently exploring opportunities as a **Quant Researcher** or **Quantitative Analyst**.  
-- 📚 Skilled in Python, machine learning, time series analysis, and financial modeling.  
-- 🚀 I love working on projects that solve real financial problems, whether it's backtesting trading strategies, risk modeling, or building predictive models.
+- 💼 Exploring opportunities as a **Quantitative Researcher** or **Quantitative Analyst**.  
+- 📚 Skilled in Python, C#, machine learning, time series analysis, and financial modeling.  
+- 🚀 I work on projects such as **backtesting trading strategies, risk modeling, and predictive models**.
 
 ---
 
 ## Education
 
-- **Engineering Degree** — (école d’ingénieur, spécialisation Data Science / Finance)  
-- **Master / Specialized Training** — (si tu as un master ou formation quant, indique ici)  
-- Relevant coursework: **Probability & Statistics**, **Stochastic Processes**, **Financial Mathematics**, **Machine Learning**, **Time Series**, **Optimization**.
+- **Engineering Degree (EPF, Montpellier)** — Specialization: Data Science / Finance  
+- **Master in Quantitative Finance (Dauphine, Paris)** — Specialization: Quantitative Finance  
+- Key coursework: **Probability & Statistics, Stochastic Processes, Financial Mathematics, Machine Learning, Time Series Analysis, Optimization**
 
 ---
 
 ## Skills & Tools
 
-- **Programming Languages**: Python, (ajoute d'autres si besoin)  
-- **Frameworks / Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow / PyTorch (selon ton niveau), Statsmodels  
-- **Quantitative & Statistical Methods**: Regression, Factor Models, Time Series, Monte Carlo Simulation  
-- **Data**: Financial Data, Alternative Data, Big Data  
-- **Tools**: Git, Jupyter, SQL, (ajoute d’autres outils comme Bloomberg, MATLAB, si pertinents)  
-- **Soft Skills**: Analytical Thinking, Problem Solving, Communication, Team Collaboration
+- **Programming & Tools:** Python, C#, Git, SQL, NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib  
+- **Quantitative & Data Analysis:** Statistical modeling, time-series analysis, Monte Carlo simulation, Black–Scholes & binomial models, portfolio theory, risk metrics  
+- **Soft Skills:** Analytical thinking, problem-solving, team collaboration, fast learner
 
 ---
 
-## Projects & Highlights
+## Projects
 
-Here are some of the quant / data-science related projects that showcase my skills and experience (pin the most relevant repos on your profile):
-
-- **[Project A]** — Description courte : what it does, what you built, what’s interesting.  
-- **[Project B]** — Another relevant project: maybe backtesting, strategy, or data research.  
-- **[Project C]** — A research-style project: factor model, risk analysis, predictive modeling, etc.
-
-*(Replace Project A/B/C with your actual repos/projects.)*
+- **Python Option Pricer:** Monte Carlo–based options pricing engine for vanilla and exotic options under Black–Scholes. Demonstrates numerical methods and financial modeling.  
+- **C# Option Pricing Engine:** Object-oriented application pricing European and American options with Black–Scholes and binomial tree models. Highlights programming and derivatives expertise.  
+- **Stock Price Forecaster:** LSTM-based model predicting short-term stock movements. Shows skills in time-series modeling and deep learning.  
+- **Trading Strategy Backtester:** Python framework for backtesting momentum and mean-reversion strategies. Emphasizes data-driven quantitative strategy development.
 
 ---
 
 ## Professional Ambition
 
-My goal is to work in **quantitative research**, ideally in a hedge fund, asset management firm, or prop trading firm, where I can:
-
-1. Develop **systematic strategies** based on data-driven insights.  
-2. Explore **alternative data** and apply **machine learning** to financial problems.  
-3. Perform **risk analysis** and build robust models to manage and exploit risk.  
-4. Contribute to a research team, publishing findings, and sharing learnings.
+I aim to work as a **Quantitative Researcher in a cryptocurrency hedge fund** with exposure to **DeFi**.  
+I am passionate about combining **trading strategy research, mathematics, and programming** to develop innovative systematic strategies and explore alternative data-driven models.
 
 ---
 
 ## Contact Me
 
-- **LinkedIn**: [Théo Verdelhan](https://www.linkedin.com/in/theoverdelhan/)  
-- **GitHub**: [github.com/theov07](https://github.com/theov07)  
-- **Email**: theo.verdelhan@dauphine.eu
+- **LinkedIn:** [Théo Verdelhan](https://www.linkedin.com/in/theoverdelhan/)  
+- **GitHub:** [github.com/theov07](https://github.com/theov07)  
+- **Email:** theo.verdelhan@dauphine.eu
 
 ---
 
@@ -74,9 +65,10 @@ My goal is to work in **quantitative research**, ideally in a hedge fund, asset 
 
 ## Fun & Interests
 
-- 🎓 Reading research papers on quantitative finance  
+- 🎓 Reading quantitative finance research papers  
 - 🧠 Solving algorithmic and mathematical challenges  
-- ⚽ Playing / watching sport, exploring new tech  
+- ⚽ Playing and watching sports, exploring new technologies  
+- 🌍 Passionate about crypto and DeFi ecosystems  
 
 ---
 

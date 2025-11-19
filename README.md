@@ -3,7 +3,6 @@
 Quantitative Researcher | Aspiring Quant Researcher | Data Scientist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TheoVerdelhan-blue?logo=linkedin)](https://www.linkedin.com/in/theoverdelhan/)  
-[GitHub Profile](https://github.com/theov07)
 
 ---
 
@@ -63,7 +62,7 @@ My goal is to work in **quantitative research**, ideally in a hedge fund, asset 
 
 - **LinkedIn**: [Théo Verdelhan](https://www.linkedin.com/in/theoverdelhan/)  
 - **GitHub**: [github.com/theov07](https://github.com/theov07)  
-- **Email**: (ajoute ton adresse email professionnelle si tu veux la donner)
+- **Email**: theo.verdelhan@dauphine.eu
 
 ---
 

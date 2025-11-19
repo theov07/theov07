@@ -56,13 +56,13 @@ I am passionate about combining **trading strategy research, mathematics, and pr
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 ![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theov07&show_icons=true&theme=radical)
 
 ---
 
-## Fun & Interests
+## Interests
 
 - 🎓 Reading quantitative finance research papers  
 - 🧠 Solving algorithmic and mathematical challenges  

@@ -19,8 +19,8 @@ I enjoy bridging **mathematics, programming, and finance** to solve real financi
 
 ## Education
 
-- **Engineering Degree (EPF, Montpellier)** — Specialization: Data Science / Finance  
-- **Master in Quantitative Finance (Dauphine, Paris)** — Specialization: Quantitative Finance  
+- **Engineering Degree (EPF, Montpellier)** — Specialization: Data Science / Machine Learning  
+- **Master in Quantitative Finance (Dauphine, Paris)** — Specialization: Quantitative Finance and Financial Engineering
 - Key coursework: **Probability & Statistics, Stochastic Processes, Financial Mathematics, Machine Learning, Time Series Analysis, Optimization**
 
 ---
@@ -35,7 +35,7 @@ I enjoy bridging **mathematics, programming, and finance** to solve real financi
 
 ## Projects
 
-- **Python Option Pricer:** Monte Carlo–based options pricing engine for vanilla and exotic options under Black–Scholes. Demonstrates numerical methods and financial modeling.  
+- **Python Option Pricer:** Built a trinomial tree pricer for European and American call and put options. Demonstrates implementation of option pricing models and numerical methods in Python.
 - **C# Option Pricing Engine:** Object-oriented application pricing European and American options with Black–Scholes and binomial tree models. Highlights programming and derivatives expertise.  
 - **Stock Price Forecaster:** LSTM-based model predicting short-term stock movements. Shows skills in time-series modeling and deep learning.  
 - **Trading Strategy Backtester:** Python framework for backtesting momentum and mean-reversion strategies. Emphasizes data-driven quantitative strategy development.

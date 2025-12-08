@@ -58,7 +58,9 @@ I am passionate about combining **trading strategy research, mathematics, and pr
 
 ## GitHub Stats
 
-![Théo's GitHub stats](https://github-readme-stats.vercel.app/api?username=theov07&show_icons=true&theme=radical)
+![Théo's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=theov07&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=theov07&layout=compact&theme=radical)
+
 
 ---
 

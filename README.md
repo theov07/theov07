@@ -1,6 +1,6 @@
 # Hi, I’m Théo Verdelhan
 
-**Quantitative Researcher | Aspiring Quant Researcher | Data Scientist | ML Engineer**
+**Quantitative Researcher | Aspiring Quant Researcher | ML Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TheoVerdelhan-blue?logo=linkedin)](https://www.linkedin.com/in/theoverdelhan/)
 
@@ -8,38 +8,45 @@
 
 ## About Me
 
-I am a highly motivated quantitative researcher in training, passionate about leveraging data, statistical models, and financial theory to build systematic strategies and generate alpha.  
-I enjoy bridging **mathematics, programming, and finance** to solve real financial problems and implement quantitative models.
+I am a highly motivated quantitative researcher in training, focused on market microstructure, systematic trading, and derivatives pricing.  
+I enjoy bridging **mathematics, stochastic modeling, and programming** to design and implement data-driven quantitative strategies.
 
-- 💼 Exploring opportunities as a **Quantitative Researcher** or **Quantitative Analyst**.  
-- 📚 Skilled in Python, C#, machine learning, time series analysis, and financial modeling.  
-- 🚀 I work on projects such as **backtesting trading strategies, risk modeling, and predictive models**.
+- 💼 Exploring opportunities as a **Quantitative Researcher** or **Systematic Trading Analyst**.  
+- 📚 Strong background in Python, C#, Monte Carlo methods, time-series analysis, and financial modeling.  
+- 🚀 I work on projects involving **order book modeling, backtesting frameworks, option pricing engines, and execution-aware strategy design**.
 
 ---
 
 ## Education
 
-- **Engineering Degree (EPF, Montpellier)** — Specialization: Data Science / Machine Learning  
-- **Master in Quantitative Finance (Dauphine, Paris)** — Specialization: Quantitative Finance and Financial Engineering
-- Key coursework: **Probability & Statistics, Stochastic Processes, Financial Mathematics, Machine Learning, Time Series Analysis, Optimization**
+- **Engineering Degree (EPF, France)** — Computer Science & Machine Learning (Top 3%)
+- **MSc in Financial Engineering (Paris Dauphine – PSL)** — Quantitative Finance
+- **Relevant coursework:** Probability & Statistics, Stochastic Processes, Financial Mathematics, Machine Learning, Time Series Analysis, Optimization
 
 ---
 
 ## Skills & Tools
 
-- **Programming & Tools:** Python, C#, Git, SQL, NumPy, Pandas, scikit-learn, TensorFlow, Matplotlib  
-- **Quantitative & Data Analysis:** Statistical modeling, time-series analysis, Monte Carlo simulation, Black–Scholes & binomial models, portfolio theory, risk metrics  
-- **Soft Skills:** Analytical thinking, problem-solving, team collaboration, fast learner
+- **Programming:** Python, C#, SQL  
+- **Quantitative Modeling:** Derivatives pricing, Monte Carlo simulation, variance reduction techniques, term structure modeling  
+- **Market Microstructure:** L1/L2/L3 order book modeling, microprice signals, order flow analysis, inventory-aware market making  
+- **Data & Infrastructure:** Event-time backtesting, high-frequency data processing, low-latency execution systems
 
 ---
 
 ## Projects
 
-- **Python Option Pricer:** Built a trinomial tree pricer for European and American call and put options. Demonstrates implementation of option pricing models and numerical methods in Python.
-- **C# Option Pricing Engine:** Object-oriented application pricing European and American options with Black–Scholes and binomial tree models. Highlights programming and derivatives expertise.  
-- **Stock Price Forecaster:** LSTM-based model predicting short-term stock movements. Shows skills in time-series modeling and deep learning.  
-- **Trading Strategy Backtester:** Python framework for backtesting momentum and mean-reversion strategies. Emphasizes data-driven quantitative strategy development.
-
+- **Multi-Asset Basket Option Pricing Engine (C#):**  
+  Production-grade pricing engine for multi-asset derivatives combining analytical moment-matching (Brigo et al.) and Monte Carlo simulation with control variate variance reduction. Supports term structure modeling, full correlation matrices, and real market data integration (ECB €STR, Bloomberg volatility surfaces).
+- **Trinomial Tree Option Pricer (Python):**  
+  Implemented a trinomial-tree engine for European and American options with early-exercise handling and Greeks computation, validated against Black–Scholes convergence benchmarks.
+- **GDP Nowcasting with MIDAS Regressions:**  
+  Implemented and extended MIDAS models to forecast GDP using mixed-frequency financial data, with out-of-sample evaluation and lag/lead structure optimization in Python.
+- **Algorithmic Trading & Backtesting Framework:**  
+  Developed an event-time backtesting framework for systematic strategies (momentum, mean-reversion, market making), incorporating execution modeling and risk controls.
+- **LSTM Stock Price Forecaster:**  
+  Built a deep learning model for short-horizon financial time-series forecasting using LSTM architectures and feature engineering techniques.
+  
 ---
 
 ## Professional Ambition

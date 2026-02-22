@@ -12,7 +12,7 @@ I am a highly motivated quantitative researcher in training, focused on market m
 I enjoy bridging **mathematics, stochastic modeling, and programming** to design and implement data-driven quantitative strategies.
 
 - 💼 Exploring opportunities as a **Quantitative Researcher** or **Systematic Trading Analyst**.  
-- 📚 Strong background in Python, C#, Monte Carlo methods, time-series analysis, and financial modeling.  
+- 📚 Strong background in Python, C++, Monte Carlo methods, time-series analysis, and financial modeling.  
 - 🚀 I work on projects involving **order book modeling, backtesting frameworks, option pricing engines, and execution-aware strategy design**.
 
 ---
@@ -27,7 +27,7 @@ I enjoy bridging **mathematics, stochastic modeling, and programming** to design
 
 ## Skills & Tools
 
-- **Programming:** Python, C#, SQL  
+- **Programming:** Python, C++, C#, SQL  
 - **Quantitative Modeling:** Derivatives pricing, Monte Carlo simulation, variance reduction techniques, term structure modeling  
 - **Market Microstructure:** L1/L2/L3 order book modeling, microprice signals, order flow analysis, inventory-aware market making  
 - **Data & Infrastructure:** Event-time backtesting, high-frequency data processing, low-latency execution systems

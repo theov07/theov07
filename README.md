@@ -3,6 +3,7 @@
 **Quantitative Researcher | Aspiring Quant Researcher | ML Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TheoVerdelhan-blue?logo=linkedin)](https://www.linkedin.com/in/theoverdelhan/)
+[![Website](https://img.shields.io/badge/Personal%20Website-Visit-darkgreen?style=for-the-badge)](https://theov07.github.io)
 
 ---
 

@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TheoVerdelhan-blue?logo=linkedin)](https://www.linkedin.com/in/theoverdelhan/) &nbsp;&nbsp; &nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/Website-theov07.github.io-red?logo=github)](https://theov07.github.io) &nbsp;&nbsp; &nbsp;&nbsp;
 [![CV](https://img.shields.io/badge/CV-PDF-lightgrey?logo=adobeacrobatreader)](https://raw.githubusercontent.com/theov07/theov07/main/CV_VERDELHAN_THEO_2026.pdf) &nbsp;&nbsp; &nbsp;&nbsp;
-[![Open to Internship](https://img.shields.io/badge/Seeking-Quant%20Internship%20April%202026-green?style=for-the-badge)]()
+[![Open to Internship](https://img.shields.io/badge/Seeking-Quant%20Internship%20Summer%202026-green?style=for-the-badge)]()
 
 ---
 

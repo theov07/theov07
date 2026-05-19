@@ -1,6 +1,6 @@
 # Hi, I’m Théo Verdelhan
 
-**Quantitative Researcher | Aspiring Quant Researcher | ML Engineer**
+**Quantitative Researcher | ML Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-TheoVerdelhan-blue?logo=linkedin)](https://www.linkedin.com/in/theoverdelhan/) &nbsp;&nbsp; &nbsp;&nbsp;
 [![Website](https://img.shields.io/badge/Website-theov07.github.io-red?logo=github)](https://theov07.github.io) &nbsp;&nbsp; &nbsp;&nbsp;

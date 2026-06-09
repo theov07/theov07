@@ -50,14 +50,6 @@ Interactive option pricer with Monte Carlo simulation, American exercise, varian
 
 ---
 
-### [Basket Option Pricing Engine](https://github.com/theov07/Basket_Option_Pricing_Engine_CSharp)
-
-<sub>C# · .NET · Basket Options · Correlated Monte Carlo</sub>
-
-Multi-asset basket option pricing engine with correlated Monte Carlo simulation, Greeks, control variates and realistic market-data inputs.
-
----
-
 ### [GDP Forecasting with MIDAS Regressions](https://github.com/theov07/GDP_Forecasting_With_MIDAS_Regressions)
 
 <sub>Python · Econometrics · MIDAS · Time Series</sub>

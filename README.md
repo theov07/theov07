@@ -130,13 +130,27 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
   alt="GitHub contribution summary"
 />
 
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theov07&theme=github"
+  height="180"
+  alt="Repositories by language"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theov07&theme=github"
+  height="180"
+  alt="GitHub profile stats"
+/>
+
 </div>
 
 ## Contact
 
 <div align="center">
 
-**Open to Quant Research / Quant Trading internship opportunities for 2026-2027.**
+**Open to Quantitative Research / Quantitative Trading internship opportunities for 2026-2027.**
 
 <br>
 

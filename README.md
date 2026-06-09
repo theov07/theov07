@@ -68,18 +68,23 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>Languages</strong><br><br>
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
+      <strong>Languages</strong>
+      <br><br>
       <code>Python</code> · <code>C++</code> · <code>C#</code> · <code>SQL</code>
     </td>
-    <td width="33%" valign="top">
-      <strong>Quant Research</strong><br><br>
-      <code>NumPy</code> · <code>pandas</code> · <code>SciPy</code><br>
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
+      <strong>Quant Research</strong>
+      <br><br>
+      <code>NumPy</code> · <code>pandas</code> · <code>SciPy</code>
+      <br><br>
       <code>statsmodels</code> · <code>scikit-learn</code> · <code>PyTorch</code>
     </td>
-    <td width="33%" valign="top">
-      <strong>Engineering</strong><br><br>
-      <code>FastAPI</code> · <code>Streamlit</code> · <code>Docker</code><br>
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
+      <strong>Engineering</strong>
+      <br><br>
+      <code>FastAPI</code> · <code>Streamlit</code> · <code>Docker</code>
+      <br><br>
       <code>SQLite</code> · <code>Linux</code> · <code>Git</code>
     </td>
   </tr>
@@ -89,28 +94,38 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>Trading</strong><br><br>
-      <code>Order Books</code> · <code>Microprice</code><br>
-      <code>Event-Time Backtesting</code><br>
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
+      <strong>Trading</strong>
+      <br><br>
+      <code>Order Books</code> · <code>Microprice</code>
+      <br><br>
+      <code>Event-Time Backtesting</code>
+      <br><br>
       <code>Inventory Risk</code>
     </td>
-    <td width="33%" valign="top">
-      <strong>Pricing</strong><br><br>
-      <code>Monte Carlo</code> · <code>Longstaff-Schwartz</code><br>
-      <code>Trinomial Trees</code> · <code>Greeks</code><br>
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
+      <strong>Pricing</strong>
+      <br><br>
+      <code>Monte Carlo</code> · <code>Longstaff-Schwartz</code>
+      <br><br>
+      <code>Trinomial Trees</code> · <code>Greeks</code>
+      <br><br>
       <code>Variance Reduction</code>
     </td>
-    <td width="33%" valign="top">
-      <strong>Markets</strong><br><br>
-      <code>Crypto</code> · <code>DeFi</code><br>
-      <code>CEX/DEX Arbitrage</code><br>
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
+      <strong>Markets</strong>
+      <br><br>
+      <code>Crypto</code> · <code>DeFi</code>
+      <br><br>
+      <code>CEX/DEX Arbitrage</code>
+      <br><br>
       <code>Market Data APIs</code>
     </td>
   </tr>
 </table>
 
 </div>
+
 
 ## GitHub Activity
 

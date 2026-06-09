@@ -4,12 +4,12 @@
 
 # Théo Verdelhan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1000&color=57606A&center=true&vCenter=true&width=720&lines=Quantitative+Research+%7C+Market+Microstructure;Systematic+Trading+%7C+Crypto+%26+DeFi;Derivatives+Pricing+%7C+Python+%2B+C%23+%2B+C%2B%2B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1000&color=57606A&center=true&vCenter=true&width=720&lines=Quantitative+Research+%7C+Market+Microstructure;Systematic+Trading+%7C+Crypto+%26+DeFi;Seeking+a+Quant+Internship+for+2026+-+2027)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theoverdelhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoverdelhan/)
 [![Website](https://img.shields.io/badge/Website-theov07.github.io-24292F?style=flat-square&logo=githubpages&logoColor=white)](https://theov07.github.io)
-[![CV](https://img.shields.io/badge/CV-PDF-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://theov07.github.io/files/CV_VERDELHAN_THEO_DAUPHINE_PSL.pdf)
 [![Email](https://img.shields.io/badge/Email-theo.verdelhan%40dauphine.eu-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:theo.verdelhan@dauphine.eu)
+[![Open to Internship](https://img.shields.io/badge/Open_to-Quant_Internship_2026--2027-2EA44F?style=flat-square)]()
 
 </div>
 
@@ -18,6 +18,8 @@
 I build research and engineering tools at the intersection of **quantitative finance**, **market microstructure**, and **production software**.
 
 My background combines an MSc in Financial Engineering at **Paris Dauphine-PSL** with a Computer Science & ML engineering degree from **EPF**. I have worked on crypto market-making research, CEX/DEX statistical arbitrage, derivatives pricing engines, mixed-frequency forecasting, and ML pipelines for financial data.
+
+I am currently seeking a **Quant Research / Quant Trading internship for 2026-2027**, ideally in systematic trading, market microstructure, crypto markets, derivatives, or DeFi.
 
 ## Focus
 
@@ -96,11 +98,25 @@ My background combines an MSc in Financial Engineering at **Paris Dauphine-PSL**
 
 ## Contact
 
-| | |
-| --- | --- |
-| LinkedIn | [linkedin.com/in/theoverdelhan](https://www.linkedin.com/in/theoverdelhan/) |
-| Portfolio | [theov07.github.io](https://theov07.github.io) |
-| Email | [theo.verdelhan@dauphine.eu](mailto:theo.verdelhan@dauphine.eu) |
+<div align="center">
+
+**Open to Quant Research / Quant Trading internship opportunities for 2026-2027.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/theoverdelhan/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://theov07.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-View_projects-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="mailto:theo.verdelhan@dauphine.eu">
+  <img src="https://img.shields.io/badge/Email-Contact_me-6B7280?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
 
 ---
 

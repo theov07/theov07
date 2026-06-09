@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theoverdelhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoverdelhan/)
 [![Website](https://img.shields.io/badge/Website-theov07.github.io-24292F?style=flat-square&logo=githubpages&logoColor=white)](https://theov07.github.io)
-[![Email](https://img.shields.io/badge/Email-theo.verdelhan%40dauphine.eu-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:theo.verdelhan@dauphine.eu)
 [![Open to Internship](https://img.shields.io/badge/Open_to-Quant_Internship_2026--2027-2EA44F?style=flat-square)]()
 
 </div>

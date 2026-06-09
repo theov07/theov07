@@ -165,7 +165,7 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <div align="center">
 
-<strong>Open to Quant Research / Quant Trading internship opportunities for 2026-2027.</strong>
+<strong>Open to Quantitative Research / Quantitative Trading internship opportunities for 2026-2027.</strong>
 
 Paris, France · Systematic Trading · Market Microstructure · Crypto & DeFi
 

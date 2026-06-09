@@ -6,9 +6,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1000&color=57606A&center=true&vCenter=true&width=680&lines=Quantitative+Research+%7C+Systematic+Trading;Crypto+Market+Microstructure+%7C+DeFi;Seeking+a+Quant+Internship+for+2026+-+2027)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-theoverdelhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoverdelhan/)
-[![Website](https://img.shields.io/badge/Website-theov07.github.io-24292F?style=flat-square&logo=githubpages&logoColor=white)](https://theov07.github.io)
-[![Open to Internship](https://img.shields.io/badge/Open_to-Quant_Internship_2026--2027-2EA44F?style=flat-square)]()
+<p align="center">
+  <a href="https://www.linkedin.com/in/theoverdelhan/">
+    <img height="26" src="https://img.shields.io/badge/LinkedIn-theoverdelhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://theov07.github.io">
+    <img height="26" src="https://img.shields.io/badge/Website-theov07.github.io-24292F?style=flat&logo=githubpages&logoColor=white" alt="Website" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img height="26" src="https://img.shields.io/badge/Open_to-Quant_Internship_2026--2027-2EA44F?style=flat" alt="Open to Quant Internship 2026-2027" />
+</p>
 
 </div>
 

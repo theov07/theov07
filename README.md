@@ -68,53 +68,44 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <strong>Languages</strong>
-      <br><br>
-      <kbd>Python</kbd> <kbd>C++</kbd> <kbd>C#</kbd> <kbd>SQL</kbd>
+    <td width="33%" valign="top">
+      <strong>Languages</strong><br><br>
+      <code>Python</code> · <code>C++</code> · <code>C#</code> · <code>SQL</code>
     </td>
-    <td align="center" width="33%">
-      <strong>Quant Research</strong>
-      <br><br>
-      <kbd>NumPy</kbd> <kbd>pandas</kbd> <kbd>SciPy</kbd>
-      <br>
-      <kbd>statsmodels</kbd> <kbd>scikit-learn</kbd> <kbd>PyTorch</kbd>
+    <td width="33%" valign="top">
+      <strong>Quant Research</strong><br><br>
+      <code>NumPy</code> · <code>pandas</code> · <code>SciPy</code><br>
+      <code>statsmodels</code> · <code>scikit-learn</code> · <code>PyTorch</code>
     </td>
-    <td align="center" width="33%">
-      <strong>Engineering</strong>
-      <br><br>
-      <kbd>FastAPI</kbd> <kbd>Streamlit</kbd> <kbd>Docker</kbd>
-      <br>
-      <kbd>SQLite</kbd> <kbd>Linux</kbd> <kbd>Git</kbd>
+    <td width="33%" valign="top">
+      <strong>Engineering</strong><br><br>
+      <code>FastAPI</code> · <code>Streamlit</code> · <code>Docker</code><br>
+      <code>SQLite</code> · <code>Linux</code> · <code>Git</code>
     </td>
   </tr>
+</table>
+
+<br>
+
+<table>
   <tr>
-    <td align="center" width="33%">
-      <strong>Trading</strong>
-      <br><br>
-      <kbd>Order Books</kbd> <kbd>Microprice</kbd>
-      <br>
-      <kbd>Event-Time Backtesting</kbd>
-      <br>
-      <kbd>Inventory Risk</kbd>
+    <td width="33%" valign="top">
+      <strong>Trading</strong><br><br>
+      <code>Order Books</code> · <code>Microprice</code><br>
+      <code>Event-Time Backtesting</code><br>
+      <code>Inventory Risk</code>
     </td>
-    <td align="center" width="33%">
-      <strong>Pricing</strong>
-      <br><br>
-      <kbd>Monte Carlo</kbd> <kbd>Longstaff-Schwartz</kbd>
-      <br>
-      <kbd>Trinomial Trees</kbd> <kbd>Greeks</kbd>
-      <br>
-      <kbd>Variance Reduction</kbd>
+    <td width="33%" valign="top">
+      <strong>Pricing</strong><br><br>
+      <code>Monte Carlo</code> · <code>Longstaff-Schwartz</code><br>
+      <code>Trinomial Trees</code> · <code>Greeks</code><br>
+      <code>Variance Reduction</code>
     </td>
-    <td align="center" width="33%">
-      <strong>Markets</strong>
-      <br><br>
-      <kbd>Crypto</kbd> <kbd>DeFi</kbd>
-      <br>
-      <kbd>CEX/DEX Arbitrage</kbd>
-      <br>
-      <kbd>Market Data APIs</kbd>
+    <td width="33%" valign="top">
+      <strong>Markets</strong><br><br>
+      <code>Crypto</code> · <code>DeFi</code><br>
+      <code>CEX/DEX Arbitrage</code><br>
+      <code>Market Data APIs</code>
     </td>
   </tr>
 </table>

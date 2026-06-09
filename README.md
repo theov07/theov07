@@ -150,20 +150,18 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <div align="center">
 
-**Open to Quantitative Research / Quantitative Trading internship opportunities for 2026-2027.**
+<strong>Open to Quant Research / Quant Trading internship opportunities for 2026-2027.</strong>
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/theoverdelhan/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-&nbsp;
-<a href="https://theov07.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-View_projects-24292F?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
-</a>
-&nbsp;
-<a href="mailto:theo.verdelhan@dauphine.eu">
-  <img src="https://img.shields.io/badge/Email-Contact_me-6B7280?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+Paris, France · Systematic Trading · Market Microstructure · Crypto & DeFi
+
+<br><br>
+
+<a href="mailto:theo.verdelhan@dauphine.eu"><strong>Email</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/theoverdelhan/"><strong>LinkedIn</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://theov07.github.io"><strong>Portfolio</strong></a>
 
 </div>

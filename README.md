@@ -27,16 +27,59 @@ I am currently seeking a **Quant Research / Quant Trading internship for 2026-20
 - **Pricing & forecasting:** Monte Carlo, Longstaff-Schwartz, trinomial trees, basket options, MIDAS nowcasting
 - **Engineering:** Python, C++, C#, SQL, FastAPI, Streamlit, Docker, Linux
 
+
+
 ## Featured Projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [Real-Time Market Data & Market Making](https://github.com/theov07/Real_Time_Market_Data_And_MM_Logic) | Live BTC/USDT order book dashboard with simulated market-making logic, queue-aware quoting, markout analytics, volatility controls and PnL tracking. | Python, Streamlit, WebSocket |
-| [Market Data Aggregation & Paper Trading API](https://github.com/theov07/Market_Data_Aggregation_And_Paper_Trading_API) | Multi-exchange crypto data router and paper-trading API normalizing Binance and OKX feeds into a unified execution layer. | Python, FastAPI, SQLite, JWT |
-| [Monte Carlo Option Pricing Engine](https://github.com/theov07/Monte_Carlo_Option_Pricing_Engine) | Interactive option pricer with Longstaff-Schwartz American exercise, variance reduction, Greeks and Black-Scholes benchmarks. | Python, NumPy, Streamlit |
-| [Basket Option Pricing Engine](https://github.com/theov07/Basket_Option_Pricing_Engine_CSharp) | C# pricing engine for multi-asset basket options with correlated Monte Carlo, Greeks and variance reduction. | C#, .NET, Monte Carlo |
-| [GDP Forecasting with MIDAS Regressions](https://github.com/theov07/GDP_Forecasting_With_MIDAS_Regressions) | Mixed-frequency econometrics project for GDP nowcasting using daily financial variables and out-of-sample evaluation. | Python, Econometrics |
-| [IMC Prosperity 4 Competition](https://github.com/theov07/IMC_PROSPERITY_4_COMPETITION) | Algorithmic trading research repository for multi-round strategy design, backtesting and quantitative competition work. | Python, Trading, Backtesting |
+### [Real-Time Market Data & Market Making](https://github.com/theov07/Real_Time_Market_Data_And_MM_Logic)
+
+<sub>Python · Streamlit · WebSocket · Order Book Analytics · Market Making</sub>
+
+Live BTC/USDT market microstructure dashboard with a simulated market-making engine, queue-aware quoting, markout analytics, volatility controls and PnL tracking.  
+[Live demo](https://mm-dashboard-microstructure.streamlit.app/)
+
+---
+
+### [Market Data Aggregation & Paper Trading API](https://github.com/theov07/Market_Data_Aggregation_And_Paper_Trading_API)
+
+<sub>Python · FastAPI · WebSocket · SQLite · JWT · Paper Trading</sub>
+
+Multi-exchange crypto data router and paper-trading API normalizing Binance and OKX feeds into a unified execution and monitoring layer.  
+[Live demo](https://market-data-aggregation-and-paper-trading-api.streamlit.app/)
+
+---
+
+### [Monte Carlo Option Pricing Engine](https://github.com/theov07/Monte_Carlo_Option_Pricing_Engine)
+
+<sub>Python · NumPy · Streamlit · Longstaff-Schwartz · Greeks</sub>
+
+Interactive option pricer with Monte Carlo simulation, American exercise via Longstaff-Schwartz, variance reduction, Greeks and Black-Scholes benchmarks.  
+[Live demo](https://monte-carlo-option-pricing-engine.streamlit.app/)
+
+---
+
+### [Basket Option Pricing Engine](https://github.com/theov07/Basket_Option_Pricing_Engine_CSharp)
+
+<sub>C# · .NET · Basket Options · Correlated Monte Carlo · Variance Reduction</sub>
+
+Multi-asset basket option pricing engine with correlated Monte Carlo simulation, Greeks, control variates and support for realistic market-data inputs.
+
+---
+
+### [GDP Forecasting with MIDAS Regressions](https://github.com/theov07/GDP_Forecasting_With_MIDAS_Regressions)
+
+<sub>Python · Econometrics · MIDAS · Time Series · Macro Forecasting</sub>
+
+Mixed-frequency econometrics project for GDP nowcasting using daily financial variables, lag/lead dynamics and out-of-sample evaluation.
+
+---
+
+### [IMC Prosperity 4 Competition](https://github.com/theov07/IMC_PROSPERITY_4_COMPETITION)
+
+<sub>Python · Algorithmic Trading · Backtesting · Strategy Research</sub>
+
+Team research repository for multi-round algorithmic trading strategy design, backtesting, manual challenge modeling and market-making logic.
+
 
 
 ## Technical Toolkit

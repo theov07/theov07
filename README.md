@@ -21,6 +21,8 @@ I am a quantitative research and engineering student focused on the practical si
 - Interested in **market microstructure**, **systematic trading**, **crypto markets**, **DeFi**, and **derivatives pricing**
 - I build tools that go beyond notebooks: live market-data dashboards, execution-aware backtests, pricing engines, and research workflows
 
+<br>
+
 ## Selected Work
 
 ### [Real-Time Market Data & Market Making](https://github.com/theov07/Real_Time_Market_Data_And_MM_Logic)
@@ -55,6 +57,8 @@ Interactive option pricer with Monte Carlo simulation, American exercise, varian
 <sub>Python · Econometrics · MIDAS · Time Series</sub>
 
 Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead dynamics and out-of-sample evaluation.
+
+<br>
 
 ## Technical Toolkit
 
@@ -120,6 +124,7 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 </div>
 
+<br>
 
 ## GitHub Activity
 
@@ -145,6 +150,8 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 />
 
 </div>
+
+<br>
 
 ## Contact
 

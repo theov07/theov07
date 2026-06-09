@@ -38,22 +38,65 @@ I am currently seeking a **Quant Research / Quant Trading internship for 2026-20
 | [GDP Forecasting with MIDAS Regressions](https://github.com/theov07/GDP_Forecasting_With_MIDAS_Regressions) | Mixed-frequency econometrics project for GDP nowcasting using daily financial variables and out-of-sample evaluation. | Python, Econometrics |
 | [IMC Prosperity 4 Competition](https://github.com/theov07/IMC_PROSPERITY_4_COMPETITION) | Algorithmic trading research repository for multi-round strategy design, backtesting and quantitative competition work. | Python, Trading, Backtesting |
 
+
 ## Technical Toolkit
 
-**Languages**  
-`Python` · `C++` · `C#` · `SQL`
+<div align="center">
 
-**Quantitative research & data**  
-`NumPy` · `pandas` · `SciPy` · `statsmodels` · `scikit-learn` · `PyTorch` · `LightGBM`
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Languages</strong>
+      <br><br>
+      <kbd>Python</kbd> <kbd>C++</kbd> <kbd>C#</kbd> <kbd>SQL</kbd>
+    </td>
+    <td align="center" width="33%">
+      <strong>Quant Research</strong>
+      <br><br>
+      <kbd>NumPy</kbd> <kbd>pandas</kbd> <kbd>SciPy</kbd> <kbd>statsmodels</kbd>
+      <br>
+      <kbd>scikit-learn</kbd> <kbd>PyTorch</kbd> <kbd>LightGBM</kbd>
+    </td>
+    <td align="center" width="33%">
+      <strong>Engineering</strong>
+      <br><br>
+      <kbd>FastAPI</kbd> <kbd>Streamlit</kbd> <kbd>Docker</kbd>
+      <br>
+      <kbd>SQLite</kbd> <kbd>Linux</kbd> <kbd>Git</kbd>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <strong>Market Microstructure</strong>
+      <br><br>
+      <kbd>Order Books</kbd> <kbd>Microprice</kbd>
+      <br>
+      <kbd>Imbalance</kbd> <kbd>Queue Dynamics</kbd>
+      <br>
+      <kbd>Markout Analysis</kbd>
+    </td>
+    <td align="center" width="33%">
+      <strong>Systematic Trading</strong>
+      <br><br>
+      <kbd>Event-Time Backtesting</kbd>
+      <br>
+      <kbd>Execution Logic</kbd> <kbd>Inventory Risk</kbd>
+      <br>
+      <kbd>CEX/DEX Arbitrage</kbd>
+    </td>
+    <td align="center" width="33%">
+      <strong>Pricing</strong>
+      <br><br>
+      <kbd>Monte Carlo</kbd> <kbd>Longstaff-Schwartz</kbd>
+      <br>
+      <kbd>Trinomial Trees</kbd> <kbd>Greeks</kbd>
+      <br>
+      <kbd>Variance Reduction</kbd>
+    </td>
+  </tr>
+</table>
 
-**Trading & market microstructure**  
-`L1/L2/L3 order books` · `WebSocket market data` · `event-time backtesting` · `microprice` · `imbalance signals` · `markout analysis` · `inventory risk`
-
-**Pricing & numerical methods**  
-`Monte Carlo simulation` · `Longstaff-Schwartz` · `trinomial trees` · `Greeks` · `variance reduction` · `term structures`
-
-**Engineering & infrastructure**  
-`FastAPI` · `Streamlit` · `Docker` · `SQLite` · `Linux` · `Git`
+</div>
 
 
 ## GitHub Activity

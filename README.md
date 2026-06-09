@@ -17,9 +17,11 @@
 
 I am a quantitative research and engineering student focused on the practical side of financial markets: how prices form, how liquidity moves, and how trading systems behave under real execution constraints.
 
-My work sits between **market microstructure**, **systematic trading**, and **derivatives pricing**. I like building tools that go beyond notebooks: live market-data dashboards, execution-aware backtests, pricing engines, and research workflows that can be tested, monitored, and improved.
-
-I am currently pursuing an MSc in Financial Engineering at **Paris Dauphine-PSL**, after a Computer Science & Machine Learning engineering degree at **EPF**. I am looking for a **Quant Research / Quant Trading internship for 2026-2027**, ideally around systematic strategies, crypto markets, DeFi, market making, or execution research.
+- MSc in Financial Engineering at **Paris Dauphine-PSL**
+- Engineering degree in Computer Science & Machine Learning from **EPF**
+- Interested in **market microstructure**, **systematic trading**, **crypto markets**, **DeFi**, and **derivatives pricing**
+- I build tools that go beyond notebooks: live market-data dashboards, execution-aware backtests, pricing engines, and research workflows
+- Currently looking for a **Quant Research / Quant Trading internship for 2026-2027**
 
 ## Selected Work
 

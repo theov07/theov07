@@ -1,89 +1,109 @@
-# Hi, I’m Théo Verdelhan
+<!-- GitHub profile README - Theo Verdelhan -->
 
-**Quantitative Researcher | ML Engineer**
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-TheoVerdelhan-blue?logo=linkedin)](https://www.linkedin.com/in/theoverdelhan/) &nbsp;&nbsp; &nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/Website-theov07.github.io-red?logo=github)](https://theov07.github.io) &nbsp;&nbsp; &nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/CV-PDF-lightgrey?logo=adobeacrobatreader)](https://raw.githubusercontent.com/theov07/theov07/main/CV_VERDELHAN_THEO_MAY_2026.pdf) &nbsp;&nbsp; &nbsp;&nbsp;
-[![Open to Internship](https://img.shields.io/badge/Seeking-Quant%20Internship%20Summer%202026-green?style=for-the-badge)]()
+# Théo Verdelhan
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1000&color=57606A&center=true&vCenter=true&width=720&lines=Quantitative+Research+%7C+Market+Microstructure;Systematic+Trading+%7C+Crypto+%26+DeFi;Derivatives+Pricing+%7C+Python+%2B+C%23+%2B+C%2B%2B)](https://git.io/typing-svg)
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theoverdelhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theoverdelhan/)
+[![Website](https://img.shields.io/badge/Website-theov07.github.io-24292F?style=flat-square&logo=githubpages&logoColor=white)](https://theov07.github.io)
+[![CV](https://img.shields.io/badge/CV-PDF-B31B1B?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://theov07.github.io/files/CV_VERDELHAN_THEO_DAUPHINE_PSL.pdf)
+[![Email](https://img.shields.io/badge/Email-theo.verdelhan%40dauphine.eu-6B7280?style=flat-square&logo=gmail&logoColor=white)](mailto:theo.verdelhan@dauphine.eu)
 
-I am a highly motivated quantitative researcher in training, focused on market microstructure, systematic trading, and derivatives pricing.  
-I enjoy bridging **mathematics, stochastic modeling, and programming** to design and implement data-driven quantitative strategies.
-
-- 💼 Exploring opportunities as a **Quantitative Researcher** or **Systematic Trading Analyst**.  
-- 📚 Strong background in Python, C++, Monte Carlo methods, time-series analysis, and financial modeling.  
-- 🚀 I work on projects involving **order book modeling, backtesting frameworks, option pricing engines, and execution-aware strategy design**.
+</div>
 
 ---
 
-## Education
+I build research and engineering tools at the intersection of **quantitative finance**, **market microstructure**, and **production software**.
 
-- **Engineering Degree (EPF, France)** — Computer Science & Machine Learning (Top 3%)
-- **MSc in Financial Engineering (Paris Dauphine – PSL)** — Quantitative Finance
-- **Relevant coursework:** Probability & Statistics, Stochastic Processes, Financial Mathematics, Machine Learning, Time Series Analysis, Optimization
+My background combines an MSc in Financial Engineering at **Paris Dauphine-PSL** with a Computer Science & ML engineering degree from **EPF**. I have worked on crypto market-making research, CEX/DEX statistical arbitrage, derivatives pricing engines, mixed-frequency forecasting, and ML pipelines for financial data.
 
----
+## Focus
 
-## Skills & Tools
+- **Market microstructure:** L1/L2/L3 order books, microprice, imbalance, queue dynamics, fill and markout analysis
+- **Systematic trading:** event-time backtesting, execution logic, inventory risk, crypto market making, CEX/DEX arbitrage
+- **Pricing & forecasting:** Monte Carlo, Longstaff-Schwartz, trinomial trees, basket options, MIDAS nowcasting
+- **Engineering:** Python, C++, C#, SQL, FastAPI, Streamlit, Docker, Linux
 
-- **Programming:** Python, C++, C#, SQL  
-- **Quantitative Modeling:** Derivatives pricing, Monte Carlo simulation, variance reduction techniques, term structure modeling  
-- **Market Microstructure:** L1/L2/L3 order book modeling, microprice signals, order flow analysis, inventory-aware market making  
-- **Data & Infrastructure:** Event-time backtesting, high-frequency data processing, low-latency execution systems
+## Featured Projects
 
----
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Real-Time Market Data & Market Making](https://github.com/theov07/Real_Time_Market_Data_And_MM_Logic) | Live BTC/USDT order book dashboard with simulated market-making logic, queue-aware quoting, markout analytics, volatility controls and PnL tracking. | Python, Streamlit, WebSocket |
+| [Market Data Aggregation & Paper Trading API](https://github.com/theov07/Market_Data_Aggregation_And_Paper_Trading_API) | Multi-exchange crypto data router and paper-trading API normalizing Binance and OKX feeds into a unified execution layer. | Python, FastAPI, SQLite, JWT |
+| [Monte Carlo Option Pricing Engine](https://github.com/theov07/Monte_Carlo_Option_Pricing_Engine) | Interactive option pricer with Longstaff-Schwartz American exercise, variance reduction, Greeks and Black-Scholes benchmarks. | Python, NumPy, Streamlit |
+| [Basket Option Pricing Engine](https://github.com/theov07/Basket_Option_Pricing_Engine_CSharp) | C# pricing engine for multi-asset basket options with correlated Monte Carlo, Greeks and variance reduction. | C#, .NET, Monte Carlo |
+| [GDP Forecasting with MIDAS Regressions](https://github.com/theov07/GDP_Forecasting_With_MIDAS_Regressions) | Mixed-frequency econometrics project for GDP nowcasting using daily financial variables and out-of-sample evaluation. | Python, Econometrics |
+| [IMC Prosperity 4 Competition](https://github.com/theov07/IMC_PROSPERITY_4_COMPETITION) | Algorithmic trading research repository for multi-round strategy design, backtesting and quantitative competition work. | Python, Trading, Backtesting |
 
-## Projects
+## Tech Stack
 
-- **Multi-Asset Basket Option Pricing Engine (C#):**  
-  Production-grade pricing engine for multi-asset derivatives combining analytical moment-matching (Brigo et al.) and Monte Carlo simulation with control variate variance reduction. Supports term structure modeling, full correlation matrices, and real market data integration (ECB €STR, Bloomberg volatility surfaces).
-- **Trinomial Tree Option Pricer (Python):**  
-  Implemented a trinomial-tree engine for European and American options with early-exercise handling and Greeks computation, validated against Black–Scholes convergence benchmarks.
-- **GDP Nowcasting with MIDAS Regressions:**  
-  Implemented and extended MIDAS models to forecast GDP using mixed-frequency financial data, with out-of-sample evaluation and lag/lead structure optimization in Python.
-- **Algorithmic Trading & Backtesting Framework:**  
-  Developed an event-time backtesting framework for systematic strategies (momentum, mean-reversion, market making), incorporating execution modeling and risk controls.
-- **LSTM Stock Price Forecaster:**  
-  Built a deep learning model for short-horizon financial time-series forecasting using LSTM architectures and feature engineering techniques.
-  
----
+**Languages**
 
-## Professional Ambition
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-I aim to work as a **Quantitative Researcher in a cryptocurrency hedge fund** with exposure to **DeFi**.  
-I am passionate about combining **trading strategy research, mathematics, and programming** to develop innovative systematic strategies and explore alternative data-driven models.
+**Quant / Data**
 
----
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+
+**Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theov07&theme=github"
+  alt="GitHub contribution summary"
+/>
+
+<br><br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theov07&theme=github"
+  height="180"
+  alt="Repositories by language"
+/>
+&nbsp;&nbsp;
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=theov07&theme=github"
+  height="180"
+  alt="GitHub profile stats"
+/>
+
+<br><br>
+
+<img
+  src="https://streak-stats.demolab.com?user=theov07&hide_border=true&theme=default"
+  alt="GitHub streak"
+/>
+
+</div>
 
 ## Contact
 
-- **LinkedIn:** [Théo Verdelhan](https://www.linkedin.com/in/theoverdelhan/)
-- **Email:** theo.verdelhan@dauphine.eu
+| | |
+| --- | --- |
+| LinkedIn | [linkedin.com/in/theoverdelhan](https://www.linkedin.com/in/theoverdelhan/) |
+| Portfolio | [theov07.github.io](https://theov07.github.io) |
+| Email | [theo.verdelhan@dauphine.eu](mailto:theo.verdelhan@dauphine.eu) |
 
 ---
 
-## GitHub Stats
-
-![Théo's GitHub stats](https://github-readme-stats-k4xr.vercel.app/api?username=theov07&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-k4xr.vercel.app/api/top-langs/?username=theov07&layout=compact&theme=radical)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=theov07&theme=tokyo-night)
-![GitHub Streak](https://streak-stats.demolab.com?user=theov07)
-
-
----
-
-## Interests
-
-- 🎓 Reading quantitative finance research papers  
-- 🧠 Solving algorithmic and mathematical challenges  
-- ⚽ Playing and watching sports, exploring new technologies  
-- 🌍 Passionate about crypto and DeFi ecosystems  
-
----
-
-Thank you for visiting! I’m always open to conversations about **quant research**, **internships**, or **collaboration** on open-source quant projects. Feel free to reach out!
+<div align="center">
+<sub>Quantitative Research · Market Microstructure · Systematic Trading · Crypto & DeFi</sub>
+</div>

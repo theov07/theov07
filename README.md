@@ -38,30 +38,23 @@ I am currently seeking a **Quant Research / Quant Trading internship for 2026-20
 | [GDP Forecasting with MIDAS Regressions](https://github.com/theov07/GDP_Forecasting_With_MIDAS_Regressions) | Mixed-frequency econometrics project for GDP nowcasting using daily financial variables and out-of-sample evaluation. | Python, Econometrics |
 | [IMC Prosperity 4 Competition](https://github.com/theov07/IMC_PROSPERITY_4_COMPETITION) | Algorithmic trading research repository for multi-round strategy design, backtesting and quantitative competition work. | Python, Trading, Backtesting |
 
-## Tech Stack
+## Technical Toolkit
 
-**Languages**
+**Languages**  
+`Python` · `C++` · `C#` · `SQL`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+**Quantitative research & data**  
+`NumPy` · `pandas` · `SciPy` · `statsmodels` · `scikit-learn` · `PyTorch` · `LightGBM`
 
-**Quant / Data**
+**Trading & market microstructure**  
+`L1/L2/L3 order books` · `WebSocket market data` · `event-time backtesting` · `microprice` · `imbalance signals` · `markout analysis` · `inventory risk`
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+**Pricing & numerical methods**  
+`Monte Carlo simulation` · `Longstaff-Schwartz` · `trinomial trees` · `Greeks` · `variance reduction` · `term structures`
 
-**Tools**
+**Engineering & infrastructure**  
+`FastAPI` · `Streamlit` · `Docker` · `SQLite` · `Linux` · `Git`
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ## GitHub Activity
 

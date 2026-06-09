@@ -152,11 +152,7 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <strong>Open to Quant Research / Quant Trading internship opportunities for 2026-2027.</strong>
 
-<br><br>
-
 Paris, France · Systematic Trading · Market Microstructure · Crypto & DeFi
-
-<br><br>
 
 <a href="mailto:theo.verdelhan@dauphine.eu"><strong>Email</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;

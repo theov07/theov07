@@ -15,7 +15,7 @@
     <img height="26" src="https://img.shields.io/badge/Website-theov07.github.io-24292F?style=flat&logo=githubpages&logoColor=white" alt="Website" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="26" src="https://img.shields.io/badge/Open_to-Quant_Internship_2026--2027-2EA44F?style=flat" alt="Open to Quant Role / Internship 2026-2027" />
+  <img height="26" src="https://img.shields.io/badge/Open_to-Quant_Role_/_Internship_2026--2027-2EA44F?style=flat" alt="Open to Quant Role / Internship 2026-2027" />
 </p>
 
 </div>

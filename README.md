@@ -97,30 +97,52 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 <div align="center">
 
 <table>
-  <tr>
-    <td align="center" width="33%" valign="top" style="padding: 24px;">
-      <strong>Languages</strong>
-      <br><br>
-      <code>Python</code> · <code>C++</code> · <code>C#</code> · <code>SQL</code>
-    </td>
-    <td align="center" width="33%" valign="top" style="padding: 24px;">
-      <strong>Quant Research</strong>
-      <br><br>
-      <code>NumPy</code> · <code>pandas</code> · <code>SciPy</code>
-      <br><br>
-      <code>statsmodels</code> · <code>scikit-learn</code> · <code>PyTorch</code>
-    </td>
-    <td align="center" width="33%" valign="top" style="padding: 24px;">
-      <strong>Engineering</strong>
-      <br><br>
-      <code>FastAPI</code> · <code>Streamlit</code> · <code>Docker</code>
-      <br><br>
-      <code>SQLite</code> · <code>Linux</code> · <code>Git</code>
-    </td>
-  </tr>
-</table>
 
-<br>
+  <tr>
+
+    <td align="center" width="25%">
+
+      <strong>Languages</strong>
+
+      <br><br>
+
+      <code>Python</code> · <code>C++</code> · <code>C#</code> · <code>SQL</code>
+
+    </td>
+
+    <td align="center" width="25%">
+
+      <strong>Research</strong>
+
+      <br><br>
+
+      <code>NumPy</code> · <code>pandas</code> · <code>SciPy</code> · <code>statsmodels</code>
+
+    </td>
+
+    <td align="center" width="25%">
+
+      <strong>Machine Learning</strong>
+
+      <br><br>
+
+      <code>scikit-learn</code> · <code>PyTorch</code>
+
+    </td>
+
+    <td align="center" width="25%">
+
+      <strong>Engineering</strong>
+
+      <br><br>
+
+      <code>FastAPI</code> · <code>Streamlit</code> · <code>Docker</code> · <code>Git</code>
+
+    </td>
+
+  </tr>
+
+</table>
 
 </div>
 

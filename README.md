@@ -97,52 +97,37 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 <div align="center">
 
 <table>
-
   <tr>
-
     <td align="center" width="25%">
-
       <strong>Languages</strong>
-
       <br><br>
-
       <code>Python</code> · <code>C++</code> · <code>C#</code> · <code>SQL</code>
-
     </td>
-
     <td align="center" width="25%">
-
       <strong>Research</strong>
-
       <br><br>
-
       <code>NumPy</code> · <code>pandas</code> · <code>SciPy</code> · <code>statsmodels</code>
-
     </td>
-
     <td align="center" width="25%">
-
       <strong>Machine Learning</strong>
-
       <br><br>
-
       <code>scikit-learn</code> · <code>PyTorch</code>
-
     </td>
-
     <td align="center" width="25%">
-
       <strong>Engineering</strong>
-
       <br><br>
-
       <code>FastAPI</code> · <code>Streamlit</code> · <code>Docker</code> · <code>Git</code>
-
     </td>
-
   </tr>
-
 </table>
+
+<br>
+
+<sub>
+
+Market microstructure · Order books · Execution-aware backtesting · Monte Carlo pricing · Crypto / DeFi
+
+</sub>
 
 </div>
 

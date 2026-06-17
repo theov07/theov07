@@ -123,9 +123,9 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <br>
 
-<sub>
+<p>
 Market microstructure · Order books · Execution-aware backtesting · Monte Carlo pricing · Crypto / DeFi
-</sub>
+</p>
 
 </div>
 

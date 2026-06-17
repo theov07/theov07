@@ -124,9 +124,7 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 <br>
 
 <sub>
-
 Market microstructure · Order books · Execution-aware backtesting · Monte Carlo pricing · Crypto / DeFi
-
 </sub>
 
 </div>
@@ -165,9 +163,7 @@ Market microstructure · Order books · Execution-aware backtesting · Monte Car
 
 <div align="center">
 
-<strong>Open to Quantitative Research / Quantitative Trading internship opportunities for 2026-2027.</strong>
-
-Paris, France · Systematic Trading · Market Microstructure · Crypto & DeFi
+<strong>Open to Quantitative Research / Quantitative Trading opportunities for 2026-2027.</strong>
 
 <a href="mailto:theo.verdelhan@dauphine.eu"><strong>Email</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;

@@ -168,7 +168,7 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theov07&theme=github_dark"
-  width="100%"
+  height="190"
   alt="GitHub contribution summary"
 />
 

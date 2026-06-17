@@ -4,52 +4,55 @@
 
 # Théo Verdelhan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1000&color=57606A&center=true&vCenter=true&width=760&lines=Quantitative+Research+%7C+Systematic+Trading;Market+Microstructure+%7C+Execution+Research;Crypto+Market+Making+%7C+DeFi;Seeking+a+Quant+Internship+for+2026+-+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1000&color=57606A&center=true&vCenter=true&width=680&lines=Quantitative+Research+%7C+Systematic+Trading;Crypto+Market+Microstructure+%7C+DeFi;Seeking+a+Quant+Internship+for+2026+-+2027)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theoverdelhan/">
     <img height="35" src="https://img.shields.io/badge/LinkedIn-theoverdelhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://theov07.github.io">
     <img height="35" src="https://img.shields.io/badge/Website-theov07.github.io-24292F?style=flat&logo=githubpages&logoColor=white" alt="Website" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://img.shields.io/badge/Open_to-Quant_Internship_2026--2027-2EA44F?style=flat" alt="Open to Quant Internship 2026-2027" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="35" src="https://img.shields.io/badge/Open_to-Quant_Role_/_Internship_2026--2027-2EA44F?style=flat" alt="Open to Quant Role / Internship 2026-2027" />
 </p>
 
 </div>
 
----
+
+<br>
 
 <pre align="center">
-┌────────────────────────────── CRYPTO MARKET MICROSTRUCTURE ──────────────────────────────┐
+┌─────────────────────────────── ORDER BOOK / MARKET MAKING ─────────────────────────────────┐
 │                                                                                            │
-│   BTC/USDT          mid: 104,238.50        spread: 1.20        inventory: neutral          │
+│   BTC/USDT                  mid: 104,238.50      spread: 1.20      inventory: neutral      │
 │                                                                                            │
-│   ask depth     104,242.0  ███████████████                                                  │
-│                 104,240.8  ████████████                                                     │
-│                 104,239.7  ████████                                                         │
+│   ASK                                                                                      │
+│   104,242.0      3.42 BTC      ████████████████                                            │
+│   104,240.8      2.65 BTC      ████████████                                                │
+│   104,239.7      1.81 BTC      ████████                                                    │
 │                                                                                            │
 │   fair value ───────────────────── 104,238.5 ─────────────────────                         │
 │                                                                                            │
-│   bid depth     104,237.3  █████████                                                        │
-│                 104,236.1  █████████████                                                    │
-│                 104,234.9  ████████████████                                                 │
+│   BID                                                                                      │
+│   104,237.3      2.08 BTC      █████████                                                   │
+│   104,236.1      2.94 BTC      █████████████                                               │
+│   104,234.9      3.71 BTC      ████████████████                                            │
 │                                                                                            │
-│   signal stack: microprice · imbalance · markouts · volatility · queue position             │
+│   depth bid: 8.73 BTC    depth ask: 7.88 BTC    imbalance: +0.05    microprice: 104,238.63 │
 │                                                                                            │
 └────────────────────────────────────────────────────────────────────────────────────────────┘
 </pre>
 
-I am a quantitative research and engineering student focused on the practical side of financial markets: how prices form, how liquidity moves, and how trading systems behave under real execution constraints.
+---
 
-My work is mainly centered around **market microstructure**, **systematic trading**, **crypto markets**, **DeFi**, and **derivatives pricing**. I like building tools that go beyond notebooks: live market-data dashboards, execution-aware backtests, pricing engines, and clean research workflows.
+I am a quantitative research and engineering student focused on the practical side of financial markets: how prices form, how liquidity moves, and how trading systems behave under real execution constraints.
 
 - MSc in Financial Engineering at **Paris Dauphine-PSL**
 - Engineering degree in Computer Science & Machine Learning from **EPF Graduate School of Engineering**
-- Interested in **order books**, **market making**, **short-horizon signals**, **execution**, and **risk-controlled trading**
-- Looking for a **Quantitative Research / Quantitative Trading internship** for **2026-2027**
+- Interested in **market microstructure**, **systematic trading**, **crypto markets**, **DeFi**, and **derivatives pricing**
+- I build tools that go beyond notebooks: live market-data dashboards, execution-aware backtests, pricing engines, and research workflows
 
 <br>
 
@@ -57,10 +60,9 @@ My work is mainly centered around **market microstructure**, **systematic tradin
 
 ### [Real-Time Market Data & Market Making](https://github.com/theov07/Real_Time_Market_Data_And_MM_Logic)
 
-<sub>Python · Streamlit · WebSocket · Order Book Analytics · Market Making</sub>
+<sub>Python · Streamlit · WebSocket · Order Book Analytics</sub>
 
-Live BTC/USDT dashboard with simulated market-making logic, queue-aware quoting, markout analytics, volatility controls and PnL tracking.
-
+Live BTC/USDT dashboard with simulated market-making logic, queue-aware quoting, markout analytics, volatility controls and PnL tracking.  
 [Live demo](https://mm-dashboard-microstructure.streamlit.app/)
 
 ---
@@ -69,8 +71,7 @@ Live BTC/USDT dashboard with simulated market-making logic, queue-aware quoting,
 
 <sub>Python · FastAPI · WebSocket · SQLite · Paper Trading</sub>
 
-Multi-exchange crypto data router and paper-trading API normalizing Binance and OKX feeds into a unified execution layer.
-
+Multi-exchange crypto data router and paper-trading API normalizing Binance and OKX feeds into a unified execution layer.  
 [Live demo](https://market-data-aggregation-and-paper-trading-api.streamlit.app/)
 
 ---
@@ -79,8 +80,7 @@ Multi-exchange crypto data router and paper-trading API normalizing Binance and 
 
 <sub>Python · NumPy · Streamlit · Longstaff-Schwartz · Greeks</sub>
 
-Interactive option pricer with Monte Carlo simulation, American exercise, variance reduction, Greeks and Black-Scholes benchmarks.
-
+Interactive option pricer with Monte Carlo simulation, American exercise, variance reduction, Greeks and Black-Scholes benchmarks.  
 [Live demo](https://monte-carlo-option-pricing-engine.streamlit.app/)
 
 ---
@@ -93,37 +93,25 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <br>
 
-## Research Focus
-
-<pre>
-Market microstructure   → liquidity, spreads, depth, order-flow imbalance
-Market making           → quoting logic, inventory control, adverse selection
-Execution research      → slippage, partial fills, latency, queue positioning
-Crypto / DeFi           → CEX/DEX data, on-chain venues, derivatives markets
-Pricing                 → Monte Carlo, American exercise, Greeks, variance reduction
-</pre>
-
-<br>
-
 ## Technical Toolkit
 
 <div align="center">
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
       <strong>Languages</strong>
       <br><br>
       <code>Python</code> · <code>C++</code> · <code>C#</code> · <code>SQL</code>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
       <strong>Quant Research</strong>
       <br><br>
       <code>NumPy</code> · <code>pandas</code> · <code>SciPy</code>
       <br><br>
       <code>statsmodels</code> · <code>scikit-learn</code> · <code>PyTorch</code>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
       <strong>Engineering</strong>
       <br><br>
       <code>FastAPI</code> · <code>Streamlit</code> · <code>Docker</code>
@@ -137,16 +125,16 @@ Pricing                 → Monte Carlo, American exercise, Greeks, variance red
 
 <table>
   <tr>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
       <strong>Trading</strong>
       <br><br>
       <code>Order Books</code> · <code>Microprice</code>
       <br><br>
-      <code>Markouts</code> · <code>Queue Dynamics</code>
+      <code>Event-Time Backtesting</code>
       <br><br>
       <code>Inventory Risk</code>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
       <strong>Pricing</strong>
       <br><br>
       <code>Monte Carlo</code> · <code>Longstaff-Schwartz</code>
@@ -155,7 +143,7 @@ Pricing                 → Monte Carlo, American exercise, Greeks, variance red
       <br><br>
       <code>Variance Reduction</code>
     </td>
-    <td align="center" width="33%" valign="top">
+    <td align="center" width="33%" valign="top" style="padding: 24px;">
       <strong>Markets</strong>
       <br><br>
       <code>Crypto</code> · <code>DeFi</code>

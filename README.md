@@ -122,38 +122,6 @@ Mixed-frequency GDP nowcasting project using daily financial variables, lag/lead
 
 <br>
 
-<table>
-  <tr>
-    <td align="center" width="33%" valign="top" style="padding: 24px;">
-      <strong>Trading</strong>
-      <br><br>
-      <code>Order Books</code> · <code>Microprice</code>
-      <br><br>
-      <code>Event-Time Backtesting</code>
-      <br><br>
-      <code>Inventory Risk</code>
-    </td>
-    <td align="center" width="33%" valign="top" style="padding: 24px;">
-      <strong>Pricing</strong>
-      <br><br>
-      <code>Monte Carlo</code> · <code>Longstaff-Schwartz</code>
-      <br><br>
-      <code>Trinomial Trees</code> · <code>Greeks</code>
-      <br><br>
-      <code>Variance Reduction</code>
-    </td>
-    <td align="center" width="33%" valign="top" style="padding: 24px;">
-      <strong>Markets</strong>
-      <br><br>
-      <code>Crypto</code> · <code>DeFi</code>
-      <br><br>
-      <code>CEX/DEX Arbitrage</code>
-      <br><br>
-      <code>Market Data APIs</code>
-    </td>
-  </tr>
-</table>
-
 </div>
 
 <br>

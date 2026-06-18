@@ -21,7 +21,7 @@
 
 <pre align="center">
 
-┌─────────────────────────────── ORDER BOOK / MARKET MAKING ─────────────────────────────────┐
+┌────────────────────────────── MARKET MAKING LIVE STRATEGY ─────────────────────────────────┐
 │                                                                                            │
 │   BTC/USDT              mid: 104,238.50      spread: 1.20      inventory: neutral          │
 │                                                                                            │

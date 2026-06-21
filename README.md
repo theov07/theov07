@@ -23,7 +23,7 @@
 
 ┌────────────────────────────── MARKET MAKING LIVE STRATEGY ─────────────────────────────────┐
 │                                                                                            │
-│   BTC/USDT              mid: 104,238.50      spread: 1.20      inventory: neutral          │
+│   BTC/USDT              mid: 104,238.50      spread: 2.40      inventory: neutral          │
 │                                                                                            │
 │   ASK                                                                                      │
 │   104,242.0      3.42 BTC                  ████████████████                                │
@@ -37,8 +37,8 @@
 │   104,236.1      2.94 BTC                  █████████████                                   │
 │   104,234.9      3.71 BTC                  ████████████████                                │
 │                                                                                            │
-│   depth bid: 8.73 BTC    depth ask: 7.88 BTC    imbalance: +0.05    microprice: 104,238.63 │
-│   queue pos: 34%         markout 5s: +0.8 bps     fill prob: 41%     adverse sel: low      │
+│   depth bid: 8.73 BTC    depth ask: 7.88 BTC    imbalance: +0.05    microprice: 104,238.56 │
+│   queue pos: 34%         markout 5s: +0.8 bps   fill prob: 41%      adverse select: low    │
 │                                                                                            │
 └────────────────────────────────────────────────────────────────────────────────────────────┘
 

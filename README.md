@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://theov07.github.io"><img height="35" src="https://img.shields.io/badge/Website-theov07.github.io-24292F?style=flat&logo=githubpages&logoColor=white" alt="Website" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="35" src="https://img.shields.io/badge/Open_to-Quant_Role_/_Internship_2026--2027-2EA44F?style=flat" alt="Open to Quant Role / Internship 2027" />
+  <img height="35" src="https://img.shields.io/badge/Open_to-Quant_Role_/_Internship_2027-2EA44F?style=flat" alt="Open to Quant Role / Internship 2027" />
 </p>
 
 </div>

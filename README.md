@@ -4,7 +4,7 @@
 
 # Théo Verdelhan
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1000&color=57606A&center=true&vCenter=true&width=720&lines=Quantitative+Research+%7C+Systematic+Trading;Crypto+Market+Microstructure+%7C+DeFi;Seeking+a+Quant+Internship+or+Full-Time+Role+for+2026+-+2027)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3200&pause=1000&color=57606A&center=true&vCenter=true&width=720&lines=Quantitative+Research+%7C+Systematic+Trading;Crypto+Market+Microstructure+%7C+DeFi;Seeking+a+Quant+Internship+or+Full-Time+Role+for+2027)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://www.linkedin.com/in/theoverdelhan/"><img height="35" src="https://img.shields.io/badge/LinkedIn-theoverdelhan-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>

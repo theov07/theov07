@@ -163,7 +163,7 @@ Market microstructure · Order books · Execution-aware backtesting · Monte Car
 
 <div align="center">
 
-<strong>Open to Quantitative Research / Quantitative Trading opportunities for 2026-2027.</strong>
+<strong>Open to Quantitative Research / Quantitative Trading opportunities for 2027.</strong>
 
 <a href="mailto:theo.verdelhan@dauphine.eu"><strong>Email</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
